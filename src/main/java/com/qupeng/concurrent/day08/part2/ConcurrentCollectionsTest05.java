@@ -1,4 +1,4 @@
-package com.powernode.concurrent.day08.part2;
+package com.qupeng.concurrent.day08.part2;
 
 import java.util.ArrayList;
 import java.util.Collection;
